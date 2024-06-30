@@ -96,5 +96,3 @@ the deploy button. Test the contract by input the value in the status bar.
 ## Authors
 
 Ankit kumar
-
-}
